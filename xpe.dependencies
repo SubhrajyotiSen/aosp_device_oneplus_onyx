@@ -1,13 +1,13 @@
 [
   {
-    "repository": "Tesla-M-Devices/device_oppo_common",
+    "repository": "Meninblack007/android_device_oppo_common",
     "target_path": "device/oppo/common",
-    "branch": "n7.1"
+    "branch": "n7.0"
   },
   {
-    "repository": "GZR-Kernels/kernel_oneplus_onyx",
+    "repository": "BirdSanctuary/kernel_oneplus_onyx",
     "target_path": "kernel/oneplus/onyx",
-    "branch": "n"
+    "branch": "n7"
   },
   {
     "repository": "BigTopKrazies/vendor_oneplus",
